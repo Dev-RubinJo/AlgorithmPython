@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae96dcb-8e21-4a76-9949-6a69ee06d276" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgorithmPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +57,51 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.왕실의 나이트">
+  <component name="RunManager" selected="Python.게임 개발">
+    <configuration name="게임 개발" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현/게임 개발.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="게임 개발" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현/게임 개발.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="왕실의 나이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,8 +192,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.왕실의 나이트" />
-        <item itemvalue="Python.시각" />
+        <item itemvalue="Python.게임 개발" />
         <item itemvalue="Python.상하좌우" />
         <item itemvalue="Python.welcome" />
       </list>
@@ -169,6 +210,9 @@
       <workItem from="1597161784211" duration="286000" />
       <workItem from="1597219349681" duration="66000" />
       <workItem from="1597219424305" duration="3777000" />
+      <workItem from="1597309589370" duration="2510000" />
+      <workItem from="1597371606388" duration="228000" />
+      <workItem from="1597385623263" duration="2117000" />
     </task>
     <servers />
   </component>
@@ -188,25 +232,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="346" key="GridCell.Tab.0.bottom" timestamp="1597229896934">
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom" timestamp="1597395123193">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1638" height="346" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597229896934" />
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597395123193" />
     <state width="1638" height="346" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1638" height="346" key="GridCell.Tab.0.center" timestamp="1597229896933">
+    <state width="1238" height="280" key="GridCell.Tab.0.center" timestamp="1597395123192">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1638" height="346" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597229896933" />
+    <state width="1238" height="280" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597395123192" />
     <state width="1638" height="346" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1638" height="346" key="GridCell.Tab.0.left" timestamp="1597229896933">
+    <state width="1238" height="280" key="GridCell.Tab.0.left" timestamp="1597395123191">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1638" height="346" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597229896933" />
+    <state width="1238" height="280" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597395123191" />
     <state width="1638" height="346" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1638" height="346" key="GridCell.Tab.0.right" timestamp="1597229896934">
+    <state width="1238" height="280" key="GridCell.Tab.0.right" timestamp="1597395123192">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1638" height="346" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597229896934" />
+    <state width="1238" height="280" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597395123192" />
     <state width="1638" height="346" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
     <state width="1638" height="346" key="GridCell.Tab.1.bottom" timestamp="1597229896935">
       <screen x="-2560" y="23" width="2560" height="1417" />
@@ -239,7 +283,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgorithmPython$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1597162004738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="왕실의 나이트 Coverage Results" MODIFIED="1597223399478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="게임 개발 Coverage Results" MODIFIED="1597395123182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$.coverage" NAME="시각 Coverage Results" MODIFIED="1597221486101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현" />
   </component>
 </project>
