@@ -62,29 +62,7 @@
       <recent name="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1744">
-    <configuration name="만들 수 없는 금액" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy/만들 수 없는 금액.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.이진 탐색">
     <configuration name="곱하기 혹은 더하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,6 +99,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy/문자열 뒤집기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="이진 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/이진 탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/이진 탐색/이진 탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,6 +195,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="만들 수 없는 금액" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy/만들 수 없는 금액.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1744" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,8 +241,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.이진 탐색" />
         <item itemvalue="Python.1744" />
-        <item itemvalue="Python.볼링공 고르기" />
         <item itemvalue="Python.만들 수 없는 금액" />
         <item itemvalue="Python.문자열 뒤집기" />
         <item itemvalue="Python.곱하기 혹은 더하기" />
@@ -245,6 +267,7 @@
       <workItem from="1597457644996" duration="2246000" />
       <workItem from="1597464687631" duration="3059000" />
       <workItem from="1597573636980" duration="7759000" />
+      <workItem from="1597757590803" duration="525000" />
     </task>
     <servers />
   </component>
@@ -264,25 +287,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="280" key="GridCell.Tab.0.bottom" timestamp="1597590076387">
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom" timestamp="1597758212404">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="280" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597590076387" />
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597758212404" />
     <state width="1638" height="346" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="280" key="GridCell.Tab.0.center" timestamp="1597590076387">
+    <state width="1238" height="280" key="GridCell.Tab.0.center" timestamp="1597758212403">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="280" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597590076387" />
+    <state width="1238" height="280" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597758212403" />
     <state width="1638" height="346" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1238" height="280" key="GridCell.Tab.0.left" timestamp="1597590076386">
+    <state width="1238" height="280" key="GridCell.Tab.0.left" timestamp="1597758212402">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="280" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597590076386" />
+    <state width="1238" height="280" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597758212402" />
     <state width="1638" height="346" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1238" height="280" key="GridCell.Tab.0.right" timestamp="1597590076387">
+    <state width="1238" height="280" key="GridCell.Tab.0.right" timestamp="1597758212404">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="280" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597590076387" />
+    <state width="1238" height="280" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597758212404" />
     <state width="1638" height="346" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
     <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1597589974424">
       <screen x="-2560" y="23" width="2560" height="1417" />
@@ -319,7 +342,7 @@
     <SUITE FILE_PATH="coverage/AlgorithmPython$____.coverage" NAME="성적이 낮은 순서로 학생 출력하기 Coverage Results" MODIFIED="1597466854426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/정렬" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$__.coverage" NAME="곱하기 혹은 더하기 Coverage Results" MODIFIED="1597579492308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$BFS1D.coverage" NAME="BFS1D Coverage Results" MODIFIED="1597414972308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="볼링공 고르기 Coverage Results" MODIFIED="1597584859156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="이진 탐색 Coverage Results" MODIFIED="1597757902340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/이진 탐색" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$___.coverage" NAME="만들 수 없는 금액 Coverage Results" MODIFIED="1597583266166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$.coverage" NAME="시각 Coverage Results" MODIFIED="1597221486101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1744.coverage" NAME="1744 Coverage Results" MODIFIED="1597586183827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
