@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae96dcb-8e21-4a76-9949-6a69ee06d276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/2839.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/1로 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/개미 전사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/바닥공사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/효율적인 화폐 구성.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/1463.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +67,8 @@
       <recent name="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2839">
-    <configuration name="피보나치 재귀 with memoization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.효율적인 화폐 구성">
+    <configuration name="효율적인 화폐 구성" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +81,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/피보나치 재귀 with memoization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/효율적인 화폐 구성.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,51 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="볼링공 고르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy/볼링공 고르기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="부품 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/이진 탐색" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/이진 탐색/부품 찾기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="피보나치 for with memoization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="개미 전사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +103,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/피보나치 for with memoization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/개미 전사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +112,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1932" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/1로 만들기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1463" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,7 +147,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/1932.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/1463.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2193" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="바닥공사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,34 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/2193.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2839" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/2839.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/바닥공사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2839" />
-        <item itemvalue="Python.2193" />
-        <item itemvalue="Python.1932" />
-        <item itemvalue="Python.피보나치 재귀 with memoization" />
-        <item itemvalue="Python.피보나치 for with memoization" />
+        <item itemvalue="Python.효율적인 화폐 구성" />
+        <item itemvalue="Python.바닥공사" />
+        <item itemvalue="Python.개미 전사" />
+        <item itemvalue="Python.1463" />
+        <item itemvalue="Python.1로 만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +210,9 @@
       <workItem from="1597811721986" duration="3388000" />
       <workItem from="1597826728118" duration="4032000" />
       <workItem from="1598015225118" duration="115000" />
-      <workItem from="1598015351356" duration="6868000" />
+      <workItem from="1598015351356" duration="7100000" />
+      <workItem from="1598075290449" duration="2845000" />
+      <workItem from="1598154984855" duration="5070000" />
     </task>
     <servers />
   </component>
@@ -270,45 +232,45 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="280" key="GridCell.Tab.0.bottom" timestamp="1598026948878">
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom" timestamp="1598184494442">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="280" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598026948878" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598184494442" />
     <state width="1638" height="346" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="280" key="GridCell.Tab.0.center" timestamp="1598026948877">
+    <state width="1238" height="502" key="GridCell.Tab.0.center" timestamp="1598184494441">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="280" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598026948877" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598184494441" />
     <state width="1638" height="346" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1238" height="280" key="GridCell.Tab.0.left" timestamp="1598026948877">
+    <state width="1238" height="502" key="GridCell.Tab.0.left" timestamp="1598184494441">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="280" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598026948877" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598184494441" />
     <state width="1638" height="346" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1238" height="280" key="GridCell.Tab.0.right" timestamp="1598026948878">
+    <state width="1238" height="502" key="GridCell.Tab.0.right" timestamp="1598184494442">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="280" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598026948878" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598184494442" />
     <state width="1638" height="346" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1598026831549">
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1598184503589">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598026831549" />
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598184503589" />
     <state width="1638" height="346" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state width="1238" height="502" key="GridCell.Tab.1.center" timestamp="1598026831548">
+    <state width="1238" height="502" key="GridCell.Tab.1.center" timestamp="1598184503589">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598026831548" />
+    <state width="1238" height="502" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598184503589" />
     <state width="1638" height="346" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state width="1238" height="502" key="GridCell.Tab.1.left" timestamp="1598026831547">
+    <state width="1238" height="502" key="GridCell.Tab.1.left" timestamp="1598184503588">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598026831547" />
+    <state width="1238" height="502" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598184503588" />
     <state width="1638" height="346" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="502" key="GridCell.Tab.1.right" timestamp="1598026831548">
+    <state width="1238" height="502" key="GridCell.Tab.1.right" timestamp="1598184503589">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598026831548" />
+    <state width="1238" height="502" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598184503589" />
     <state width="1638" height="346" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
     <state x="-1016" y="334" key="SettingsEditor" timestamp="1598025547366">
       <screen x="-2560" y="23" width="2560" height="1417" />
@@ -333,22 +295,24 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgorithmPython$DFS1D.coverage" NAME="DFS1D Coverage Results" MODIFIED="1597412768894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$__.coverage" NAME="떡볶이 떡 만들기 Coverage Results" MODIFIED="1597819351119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/이진 탐색" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$__.coverage" NAME="효율적인 화폐 구성 Coverage Results" MODIFIED="1598184494325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$BFS1D.coverage" NAME="BFS1D Coverage Results" MODIFIED="1597414972308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$_for_with_memoization.coverage" NAME="피보나치 for with memoization Coverage Results" MODIFIED="1597831559742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2193.coverage" NAME="2193 Coverage Results" MODIFIED="1598019433170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$3046.coverage" NAME="3046 Coverage Results" MODIFIED="1597763408651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1744.coverage" NAME="1744 Coverage Results" MODIFIED="1597586183827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2530.coverage" NAME="2530 Coverage Results" MODIFIED="1597763847718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1_.coverage" NAME="1로 만들기 Coverage Results" MODIFIED="1598076698308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1789.coverage" NAME="1789 Coverage Results" MODIFIED="1597763014716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1597162004738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$____.coverage" NAME="성적이 낮은 순서로 학생 출력하기 Coverage Results" MODIFIED="1597466854426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/정렬" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="피보나치 재귀 Coverage Results" MODIFIED="1597829640114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="개미 전사 Coverage Results" MODIFIED="1598155350342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$___.coverage" NAME="만들 수 없는 금액 Coverage Results" MODIFIED="1597583266166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1932.coverage" NAME="1932 Coverage Results" MODIFIED="1598018553405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$.coverage" NAME="시각 Coverage Results" MODIFIED="1597221486101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/구현" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2754.coverage" NAME="2754 Coverage Results" MODIFIED="1597763245498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$.coverage" NAME="바닥공사 Coverage Results" MODIFIED="1598182244039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2839.coverage" NAME="2839 Coverage Results" MODIFIED="1598026948870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$__with_memoization.coverage" NAME="피보나치 재귀 with memoization Coverage Results" MODIFIED="1597831564139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1463.coverage" NAME="1463 Coverage Results" MODIFIED="1598155243459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
   </component>
 </project>
