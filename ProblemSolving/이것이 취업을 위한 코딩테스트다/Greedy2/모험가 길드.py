@@ -13,5 +13,6 @@ while array:
     for _ in range(pivot):
         temp.append(array[0])
         array.remove(array[0])
-    answer.append(temp)
+    if temp[0] <= len(temp):
+        answer.append(temp)
 print(len(answer))
