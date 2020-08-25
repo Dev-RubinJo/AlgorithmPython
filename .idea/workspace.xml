@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae96dcb-8e21-4a76-9949-6a69ee06d276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2/곱하기 혹은 더하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2/문자열 뒤집기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <recent name="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.곱하기 혹은 더하기">
+  <component name="RunManager" selected="Python.문자열 뒤집기">
     <configuration name="곱하기 혹은 더하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +78,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2/곱하기 혹은 더하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="문자열 뒤집기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2/문자열 뒤집기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,35 +174,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="바닥공사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming/바닥공사.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.문자열 뒤집기" />
         <item itemvalue="Python.곱하기 혹은 더하기" />
         <item itemvalue="Python.모험가 길드" />
         <item itemvalue="Python.다익스트라 알고리즘" />
         <item itemvalue="Python.효율적인 화폐 구성" />
-        <item itemvalue="Python.바닥공사" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,7 @@
       <workItem from="1598015351356" duration="7100000" />
       <workItem from="1598075290449" duration="2845000" />
       <workItem from="1598154984855" duration="5191000" />
-      <workItem from="1598339013383" duration="8948000" />
+      <workItem from="1598339013383" duration="9476000" />
     </task>
     <servers />
   </component>
@@ -229,45 +229,45 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1665" height="502" key="GridCell.Tab.0.bottom" timestamp="1598359270221">
+    <state width="1665" height="280" key="GridCell.Tab.0.bottom" timestamp="1598359496398">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1665" height="502" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359270221" />
+    <state width="1665" height="280" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359496398" />
     <state width="1638" height="346" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1665" height="502" key="GridCell.Tab.0.center" timestamp="1598359270221">
+    <state width="1665" height="280" key="GridCell.Tab.0.center" timestamp="1598359496397">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1665" height="502" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359270221" />
+    <state width="1665" height="280" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359496397" />
     <state width="1638" height="346" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1665" height="502" key="GridCell.Tab.0.left" timestamp="1598359270220">
+    <state width="1665" height="280" key="GridCell.Tab.0.left" timestamp="1598359496396">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1665" height="502" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359270220" />
+    <state width="1665" height="280" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359496396" />
     <state width="1638" height="346" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1665" height="502" key="GridCell.Tab.0.right" timestamp="1598359270221">
+    <state width="1665" height="280" key="GridCell.Tab.0.right" timestamp="1598359496397">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1665" height="502" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359270221" />
+    <state width="1665" height="280" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359496397" />
     <state width="1638" height="346" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1665" height="502" key="GridCell.Tab.1.bottom" timestamp="1598359273978">
+    <state width="1665" height="502" key="GridCell.Tab.1.bottom" timestamp="1598359385458">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1665" height="502" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359273978" />
+    <state width="1665" height="502" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359385458" />
     <state width="1638" height="346" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state width="1665" height="502" key="GridCell.Tab.1.center" timestamp="1598359273977">
+    <state width="1665" height="502" key="GridCell.Tab.1.center" timestamp="1598359385458">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1665" height="502" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359273977" />
+    <state width="1665" height="502" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359385458" />
     <state width="1638" height="346" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state width="1665" height="502" key="GridCell.Tab.1.left" timestamp="1598359273977">
+    <state width="1665" height="502" key="GridCell.Tab.1.left" timestamp="1598359385458">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1665" height="502" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359273977" />
+    <state width="1665" height="502" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359385458" />
     <state width="1638" height="346" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1665" height="502" key="GridCell.Tab.1.right" timestamp="1598359273978">
+    <state width="1665" height="502" key="GridCell.Tab.1.right" timestamp="1598359385458">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1665" height="502" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359273978" />
+    <state width="1665" height="502" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598359385458" />
     <state width="1638" height="346" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
     <state x="-1016" y="334" key="SettingsEditor" timestamp="1598349823492">
       <screen x="-2560" y="23" width="2560" height="1417" />
@@ -279,20 +279,9 @@
     <state x="-1790" y="336" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597811795033" />
     <state x="505" y="250" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220006435" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2/곱하기 혹은 더하기.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgorithmPython$DFS1D.coverage" NAME="DFS1D Coverage Results" MODIFIED="1597412768894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$__.coverage" NAME="곱하기 혹은 더하기 Coverage Results" MODIFIED="1598359270105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$__.coverage" NAME="곱하기 혹은 더하기 Coverage Results" MODIFIED="1598359385442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$BFS1D.coverage" NAME="BFS1D Coverage Results" MODIFIED="1597414972308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$_for_with_memoization.coverage" NAME="피보나치 for with memoization Coverage Results" MODIFIED="1597831559742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2193.coverage" NAME="2193 Coverage Results" MODIFIED="1598019433170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
