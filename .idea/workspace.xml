@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae96dcb-8e21-4a76-9949-6a69ee06d276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/14494.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1/럭키 스트레이트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1/문자열 압축.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1/문자열 재정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/프로그래머스/Greedy/체육복.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/2606.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +50,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,29 +65,7 @@
       <recent name="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.문자열 압축">
-    <configuration name="큰 수 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/프로그래머스/Greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/프로그래머스/Greedy/큰 수 만들기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2606">
     <configuration name="문자열 재정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,6 +176,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="큰 수 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/프로그래머스/Greedy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/프로그래머스/Greedy/큰 수 만들기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="체육복" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,10 +220,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2606" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/2606.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.문자열 압축" />
-        <item itemvalue="Python.럭키 스트레이트" />
+        <item itemvalue="Python.2606" />
         <item itemvalue="Python.문자열 재정렬" />
         <item itemvalue="Python.큰 수 만들기" />
         <item itemvalue="Python.체육복" />
@@ -260,7 +278,10 @@
       <workItem from="1598154984855" duration="5191000" />
       <workItem from="1598339013383" duration="11261000" />
       <workItem from="1598436720223" duration="3887000" />
-      <workItem from="1598492947928" duration="17860000" />
+      <workItem from="1598492947928" duration="18057000" />
+      <workItem from="1598543181484" duration="130000" />
+      <workItem from="1598578865974" duration="2645000" />
+      <workItem from="1598616197738" duration="2302000" />
     </task>
     <servers />
   </component>
@@ -280,55 +301,67 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="502" key="GridCell.Tab.0.bottom" timestamp="1598531382971">
+    <state width="1665" height="502" key="GridCell.Tab.0.bottom" timestamp="1598618314543">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598531382971" />
+    <state width="1665" height="502" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598618314543" />
     <state width="1638" height="346" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="502" key="GridCell.Tab.0.center" timestamp="1598531382970">
+    <state width="1665" height="502" key="GridCell.Tab.0.center" timestamp="1598618314539">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598531382970" />
+    <state width="1665" height="502" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598618314539" />
     <state width="1638" height="346" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1238" height="502" key="GridCell.Tab.0.left" timestamp="1598531382970">
+    <state width="1665" height="502" key="GridCell.Tab.0.left" timestamp="1598618314538">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598531382970" />
+    <state width="1665" height="502" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598618314538" />
     <state width="1638" height="346" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1238" height="502" key="GridCell.Tab.0.right" timestamp="1598531382970">
+    <state width="1665" height="502" key="GridCell.Tab.0.right" timestamp="1598618314539">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598531382970" />
+    <state width="1665" height="502" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598618314539" />
     <state width="1638" height="346" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1598531382972">
+    <state width="1665" height="502" key="GridCell.Tab.1.bottom" timestamp="1598618324020">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598531382972" />
+    <state width="1665" height="502" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598618324020" />
     <state width="1638" height="346" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state width="1238" height="502" key="GridCell.Tab.1.center" timestamp="1598531382971">
+    <state width="1665" height="502" key="GridCell.Tab.1.center" timestamp="1598618324019">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598531382971" />
+    <state width="1665" height="502" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598618324019" />
     <state width="1638" height="346" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state width="1238" height="502" key="GridCell.Tab.1.left" timestamp="1598531382971">
+    <state width="1665" height="502" key="GridCell.Tab.1.left" timestamp="1598618324018">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598531382971" />
+    <state width="1665" height="502" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598618324018" />
     <state width="1638" height="346" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="502" key="GridCell.Tab.1.right" timestamp="1598531382972">
+    <state width="1665" height="502" key="GridCell.Tab.1.right" timestamp="1598618324019">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598531382972" />
+    <state width="1665" height="502" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598618324019" />
     <state width="1638" height="346" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state x="-1235" y="571" key="SettingsEditor" timestamp="1598446251953">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state x="64" y="46" key="SettingsEditor" timestamp="1598543287661">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="-1235" y="571" key="SettingsEditor/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598446251953" />
+    <state x="64" y="46" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1598543287661" />
     <state x="-1790" y="336" width="670" height="676" key="search.everywhere.popup" timestamp="1597811795033">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-1790" y="336" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1597811795033" />
     <state x="505" y="250" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220006435" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/2606.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgorithmPython$DFS1D.coverage" NAME="DFS1D Coverage Results" MODIFIED="1597412768894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
@@ -336,6 +369,7 @@
     <SUITE FILE_PATH="coverage/AlgorithmPython$BFS1D.coverage" NAME="BFS1D Coverage Results" MODIFIED="1597414972308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$_for_with_memoization.coverage" NAME="피보나치 for with memoization Coverage Results" MODIFIED="1597831559742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2193.coverage" NAME="2193 Coverage Results" MODIFIED="1598019433170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$2606.coverage" NAME="2606 Coverage Results" MODIFIED="1598618313984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$3046.coverage" NAME="3046 Coverage Results" MODIFIED="1597763408651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$18353.coverage" NAME="18353 Coverage Results" MODIFIED="1598442565440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1744.coverage" NAME="1744 Coverage Results" MODIFIED="1597586183827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
