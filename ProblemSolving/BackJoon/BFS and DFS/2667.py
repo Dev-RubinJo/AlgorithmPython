@@ -23,12 +23,12 @@ def bfs(apart, count, x, y):
                     queue.append((nx, ny))
     return count
 
-count = 0
+count = 1
 ans = []
 for i in range(n):
     for j in range(n):
         if apart[i][j] == 1:
-            ans.append(bfs(apart, count + 1, i, j))
+            ans.append(bfs(apart, count, i, j))
 
 print(len(ans))
 for i in sorted(ans):

@@ -25,7 +25,6 @@ def solution_worng(n, lost, reserve):
             if take[i] == 1:
                 answer2 += 1
 
-
     return max(answer, answer2)
 
 def solution(n, lost, reserve):
