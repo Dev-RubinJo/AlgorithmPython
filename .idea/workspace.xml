@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae96dcb-8e21-4a76-9949-6a69ee06d276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1/자물쇠와 열쇠.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/프로그래머스/BFS and DFS/타겟 넘버.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1/뱀.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/2667.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/2667.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemSolving/프로그래머스/Greedy/체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemSolving/프로그래머스/Greedy/체육복.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <recent name="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.자물쇠와 열쇠">
+  <component name="RunManager" selected="Python.뱀">
     <configuration name="문자열 재정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,6 +242,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="뱀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1/뱀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2606" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,7 +310,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.자물쇠와 열쇠" />
+        <item itemvalue="Python.뱀" />
         <item itemvalue="Python.2667" />
         <item itemvalue="Python.2606" />
         <item itemvalue="Python.문자열 재정렬" />
@@ -332,7 +351,8 @@
       <workItem from="1598616197738" duration="4984000" />
       <workItem from="1598671452551" duration="6448000" />
       <workItem from="1598710274007" duration="204000" />
-      <workItem from="1598756185451" duration="1420000" />
+      <workItem from="1598756185451" duration="2441000" />
+      <workItem from="1598849640816" duration="9305000" />
     </task>
     <servers />
   </component>
@@ -356,45 +376,45 @@
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-952" y="474" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598620912445" />
-    <state width="1238" height="502" key="GridCell.Tab.0.bottom" timestamp="1598790943306">
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom" timestamp="1598864508750">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598790943306" />
+    <state width="1238" height="502" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598864508750" />
     <state width="1638" height="346" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="502" key="GridCell.Tab.0.center" timestamp="1598790943305">
+    <state width="1238" height="502" key="GridCell.Tab.0.center" timestamp="1598864508749">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598790943305" />
+    <state width="1238" height="502" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598864508749" />
     <state width="1638" height="346" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1238" height="502" key="GridCell.Tab.0.left" timestamp="1598790943305">
+    <state width="1238" height="502" key="GridCell.Tab.0.left" timestamp="1598864508748">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598790943305" />
+    <state width="1238" height="502" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598864508748" />
     <state width="1638" height="346" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058882" />
-    <state width="1238" height="502" key="GridCell.Tab.0.right" timestamp="1598790943306">
+    <state width="1238" height="502" key="GridCell.Tab.0.right" timestamp="1598864508749">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598790943306" />
+    <state width="1238" height="502" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598864508749" />
     <state width="1638" height="346" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1598790943307">
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom" timestamp="1598864530289">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598790943307" />
+    <state width="1238" height="502" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598864530289" />
     <state width="1638" height="346" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state width="1238" height="502" key="GridCell.Tab.1.center" timestamp="1598790943307">
+    <state width="1238" height="502" key="GridCell.Tab.1.center" timestamp="1598864530288">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598790943307" />
+    <state width="1238" height="502" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598864530288" />
     <state width="1638" height="346" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
-    <state width="1238" height="502" key="GridCell.Tab.1.left" timestamp="1598790943306">
+    <state width="1238" height="502" key="GridCell.Tab.1.left" timestamp="1598864530288">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598790943306" />
+    <state width="1238" height="502" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598864530288" />
     <state width="1638" height="346" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058883" />
-    <state width="1238" height="502" key="GridCell.Tab.1.right" timestamp="1598790943307">
+    <state width="1238" height="502" key="GridCell.Tab.1.right" timestamp="1598864530288">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="502" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598790943307" />
+    <state width="1238" height="502" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598864530288" />
     <state width="1638" height="346" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1597220058884" />
     <state x="64" y="46" key="SettingsEditor" timestamp="1598543287661">
       <screen x="0" y="23" width="1280" height="777" />
@@ -424,11 +444,11 @@
     <SUITE FILE_PATH="coverage/AlgorithmPython$1789.coverage" NAME="1789 Coverage Results" MODIFIED="1597763014716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1597162004738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$____.coverage" NAME="성적이 낮은 순서로 학생 출력하기 Coverage Results" MODIFIED="1597466854426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/정렬" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="자물쇠와 열쇠 Coverage Results" MODIFIED="1598790943287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="자물쇠와 열쇠 Coverage Results" MODIFIED="1598791801456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1932.coverage" NAME="1932 Coverage Results" MODIFIED="1598018553405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$___.coverage" NAME="만들 수 없는 금액 Coverage Results" MODIFIED="1598360791161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy2" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2754.coverage" NAME="2754 Coverage Results" MODIFIED="1597763245498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$.coverage" NAME="체육복 Coverage Results" MODIFIED="1598500090612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$.coverage" NAME="뱀 Coverage Results" MODIFIED="1598864508657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2839.coverage" NAME="2839 Coverage Results" MODIFIED="1598026948870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$__with_memoization.coverage" NAME="피보나치 재귀 with memoization Coverage Results" MODIFIED="1597831564139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1463.coverage" NAME="1463 Coverage Results" MODIFIED="1598155243459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
