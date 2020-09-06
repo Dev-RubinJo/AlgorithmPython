@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae96dcb-8e21-4a76-9949-6a69ee06d276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/1707.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy/10162.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/구현/1268.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/LeetCode/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/재귀/11729.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemSolving/BackJoon/1707.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,29 +66,7 @@
       <recent name="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10162">
-    <configuration name="럭키 스트레이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1/럭키 스트레이트.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.11729">
     <configuration name="볼링공 고르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +103,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy/10162.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11729" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/재귀" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/재귀/11729.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,28 +177,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18247" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/구현" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/구현/18247.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="26. Remove Duplicates from Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11729" />
         <item itemvalue="Python.10162" />
         <item itemvalue="Python.1268" />
         <item itemvalue="Python.1707" />
         <item itemvalue="Python.26. Remove Duplicates from Sorted Array" />
-        <item itemvalue="Python.18247" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +253,8 @@
       <workItem from="1599147611712" duration="4461000" />
       <workItem from="1599178619087" duration="10887000" />
       <workItem from="1599226609313" duration="9240000" />
-      <workItem from="1599279695846" duration="8640000" />
+      <workItem from="1599279695846" duration="10207000" />
+      <workItem from="1599361385900" duration="1498000" />
     </task>
     <servers />
   </component>
@@ -307,45 +282,45 @@
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-952" y="474" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598620912445" />
-    <state width="1238" height="427" key="GridCell.Tab.0.bottom" timestamp="1599293731613">
+    <state width="1238" height="427" key="GridCell.Tab.0.bottom" timestamp="1599375083105">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="427" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599293731613" />
+    <state width="1238" height="427" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599375083105" />
     <state width="1238" height="891" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210930971" />
-    <state width="1238" height="427" key="GridCell.Tab.0.center" timestamp="1599293731612">
+    <state width="1238" height="427" key="GridCell.Tab.0.center" timestamp="1599375083104">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="427" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599293731612" />
+    <state width="1238" height="427" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599375083104" />
     <state width="1238" height="891" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210930971" />
-    <state width="1238" height="427" key="GridCell.Tab.0.left" timestamp="1599293731612">
+    <state width="1238" height="427" key="GridCell.Tab.0.left" timestamp="1599375083104">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="427" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599293731612" />
+    <state width="1238" height="427" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599375083104" />
     <state width="1238" height="891" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210930970" />
-    <state width="1238" height="427" key="GridCell.Tab.0.right" timestamp="1599293731612">
+    <state width="1238" height="427" key="GridCell.Tab.0.right" timestamp="1599375083105">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="427" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599293731612" />
+    <state width="1238" height="427" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599375083105" />
     <state width="1238" height="891" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210930971" />
-    <state width="1238" height="337" key="GridCell.Tab.1.bottom" timestamp="1599290657699">
+    <state width="1238" height="337" key="GridCell.Tab.1.bottom" timestamp="1599375063617">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="337" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599290657699" />
+    <state width="1238" height="337" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599375063617" />
     <state width="798" height="230" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210930966" />
-    <state width="1238" height="337" key="GridCell.Tab.1.center" timestamp="1599290657698">
+    <state width="1238" height="337" key="GridCell.Tab.1.center" timestamp="1599375063617">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="337" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599290657698" />
+    <state width="1238" height="337" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599375063617" />
     <state width="798" height="230" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210930965" />
-    <state width="1238" height="337" key="GridCell.Tab.1.left" timestamp="1599290657698">
+    <state width="1238" height="337" key="GridCell.Tab.1.left" timestamp="1599375063617">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="337" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599290657698" />
+    <state width="1238" height="337" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599375063617" />
     <state width="798" height="230" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210930965" />
-    <state width="1238" height="337" key="GridCell.Tab.1.right" timestamp="1599290657698">
+    <state width="1238" height="337" key="GridCell.Tab.1.right" timestamp="1599375063617">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="337" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599290657698" />
+    <state width="1238" height="337" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599375063617" />
     <state width="798" height="230" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210930965" />
     <state x="482" y="328" key="SettingsEditor" timestamp="1599210140849">
       <screen x="0" y="23" width="1680" height="1027" />
@@ -395,5 +370,6 @@
     <SUITE FILE_PATH="coverage/AlgorithmPython$__with_memoization.coverage" NAME="피보나치 재귀 with memoization Coverage Results" MODIFIED="1597831564139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1599206004380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$18247.coverage" NAME="18247 Coverage Results" MODIFIED="1599209953555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/구현" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$11729.coverage" NAME="11729 Coverage Results" MODIFIED="1599375083096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/재귀" />
   </component>
 </project>
