@@ -21,7 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9ae96dcb-8e21-4a76-9949-6a69ee06d276" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/10282.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/16234-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/15961-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/4716-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/DataStructure/Tree/1068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/18353-2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProblemSolving/프로그래머스/2021_kakao_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProblemSolving/프로그래머스/2021_kakao_2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ProblemSolving/프로그래머스/2021_kakao_3.py" afterDir="false" />
@@ -71,8 +74,8 @@
       <recent name="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16234-1">
-    <configuration name="1092-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2143-1">
+    <configuration name="1138-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +83,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy/1092-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/1138-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16234-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1427-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/16234-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/1427-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,51 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17836-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS/17836-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1946-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy/1946-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2579-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18353-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,7 +132,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/2579-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming/18353-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2143-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/2143-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3863-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolving/BackJoon/3863-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.16234-1" />
-        <item itemvalue="Python.1092-1" />
-        <item itemvalue="Python.1946-1" />
-        <item itemvalue="Python.17836-1" />
-        <item itemvalue="Python.2579-1" />
+        <item itemvalue="Python.2143-1" />
+        <item itemvalue="Python.1138-1" />
+        <item itemvalue="Python.18353-2" />
+        <item itemvalue="Python.1427-1" />
+        <item itemvalue="Python.3863-1" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +261,27 @@
       <workItem from="1600393377773" duration="33000" />
       <workItem from="1600393413241" duration="5753000" />
       <workItem from="1600483107950" duration="101000" />
-      <workItem from="1600486406713" duration="5394000" />
+      <workItem from="1600486406713" duration="5865000" />
+      <workItem from="1600573766981" duration="3564000" />
+      <workItem from="1600739836917" duration="1568000" />
+      <workItem from="1600842694474" duration="7655000" />
+      <workItem from="1601181788517" duration="4185000" />
+      <workItem from="1601250569873" duration="428000" />
+      <workItem from="1601264678576" duration="114000" />
+      <workItem from="1601390307402" duration="739000" />
+      <workItem from="1601703491672" duration="1236000" />
+      <workItem from="1601734295186" duration="463000" />
+      <workItem from="1601879916822" duration="2542000" />
+      <workItem from="1601954416653" duration="936000" />
+      <workItem from="1602028653508" duration="266000" />
+      <workItem from="1602213573112" duration="8621000" />
+      <workItem from="1602669893003" duration="1197000" />
+      <workItem from="1602691638046" duration="347000" />
+      <workItem from="1603251153702" duration="1799000" />
+      <workItem from="1603253857280" duration="6425000" />
+      <workItem from="1603328596962" duration="327000" />
+      <workItem from="1603433922977" duration="495000" />
+      <workItem from="1603500480385" duration="2088000" />
     </task>
     <servers />
   </component>
@@ -286,79 +309,69 @@
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-952" y="474" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1598620912445" />
-    <state width="1238" height="477" key="GridCell.Tab.0.bottom" timestamp="1600504471100">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state width="1638" height="292" key="GridCell.Tab.0.bottom" timestamp="1603505102855">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1238" height="477" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600504471100" />
-    <state width="1638" height="329" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600444233359" />
-    <state width="1238" height="477" key="GridCell.Tab.0.center" timestamp="1600504471099">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state width="1238" height="477" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1603253854442" />
+    <state width="1638" height="292" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1603505102855" />
+    <state width="1638" height="292" key="GridCell.Tab.0.center" timestamp="1603505102854">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1238" height="477" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600504471099" />
-    <state width="1638" height="329" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600444233358" />
-    <state width="1238" height="477" key="GridCell.Tab.0.left" timestamp="1600504471099">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state width="1238" height="477" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1603253854441" />
+    <state width="1638" height="292" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1603505102854" />
+    <state width="1638" height="292" key="GridCell.Tab.0.left" timestamp="1603505102854">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1238" height="477" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600504471099" />
-    <state width="1638" height="329" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600444233357" />
-    <state width="1238" height="477" key="GridCell.Tab.0.right" timestamp="1600504471100">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state width="1238" height="477" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1603253854441" />
+    <state width="1638" height="292" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1603505102854" />
+    <state width="1638" height="292" key="GridCell.Tab.0.right" timestamp="1603505102854">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1238" height="477" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600504471100" />
-    <state width="1638" height="329" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600444233358" />
-    <state width="1238" height="477" key="GridCell.Tab.1.bottom" timestamp="1600504473344">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state width="1238" height="477" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1603253854442" />
+    <state width="1638" height="292" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1603505102854" />
+    <state width="1638" height="328" key="GridCell.Tab.1.bottom" timestamp="1603505102849">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1238" height="477" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600504473344" />
-    <state width="1638" height="329" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600444233360" />
-    <state width="1238" height="477" key="GridCell.Tab.1.center" timestamp="1600504473344">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state width="1238" height="477" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1603253854443" />
+    <state width="1638" height="328" key="GridCell.Tab.1.bottom/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1603505102849" />
+    <state width="1638" height="328" key="GridCell.Tab.1.center" timestamp="1603505102848">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1238" height="477" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600504473344" />
-    <state width="1638" height="329" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600444233359" />
-    <state width="1238" height="477" key="GridCell.Tab.1.left" timestamp="1600504473343">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state width="1238" height="477" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1603253854442" />
+    <state width="1638" height="328" key="GridCell.Tab.1.center/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1603505102848" />
+    <state width="1638" height="328" key="GridCell.Tab.1.left" timestamp="1603505102848">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1238" height="477" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600504473343" />
-    <state width="1638" height="329" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600444233359" />
-    <state width="1238" height="477" key="GridCell.Tab.1.right" timestamp="1600504473344">
-      <screen x="-2560" y="23" width="2560" height="1417" />
+    <state width="1238" height="477" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1603253854442" />
+    <state width="1638" height="328" key="GridCell.Tab.1.left/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1603505102848" />
+    <state width="1638" height="328" key="GridCell.Tab.1.right" timestamp="1603505102848">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1238" height="477" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600504473344" />
-    <state width="1638" height="329" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600444233360" />
+    <state width="1238" height="477" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1603253854443" />
+    <state width="1638" height="328" key="GridCell.Tab.1.right/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1603505102848" />
     <state x="-1060" y="441" key="RollbackChangesDialog" timestamp="1599885663176">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-1060" y="441" key="RollbackChangesDialog/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599885663176" />
-    <state x="-1826" y="480" key="SettingsEditor" timestamp="1599812902868">
+    <state x="-1826" y="480" key="SettingsEditor" timestamp="1600861790936">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-1826" y="480" key="SettingsEditor/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599812902868" />
+    <state x="-1826" y="480" key="SettingsEditor/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600861790936" />
     <state x="482" y="328" key="SettingsEditor/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599210140849" />
     <state x="64" y="46" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1598543287661" />
     <state x="-933" y="320" width="586" height="822" key="find.popup" timestamp="1599148546753">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-933" y="320" width="586" height="822" key="find.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1599148546753" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1600404713268">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="-1790" y="336" width="670" height="676" key="search.everywhere.popup" timestamp="1602232333825">
+      <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-1790" y="336" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1600052027115" />
+    <state x="-1790" y="336" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1602232333825" />
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1600404713268" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ProblemSolving/BackJoon/Study/1520.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ProblemSolving/프로그래머스/2021_kakao_1.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProblemSolving/프로그래머스/2021_kakao_2.py</url>
           <line>11</line>
@@ -373,56 +386,74 @@
           <url>file://$PROJECT_DIR$/ProblemSolving/프로그래머스/2021_kakao_3.py</url>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProblemSolving/BackJoon/1427-1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProblemSolving/BackJoon/2143-1.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AlgorithmPython$1439.coverage" NAME="1439 Coverage Results" MODIFIED="1599452303321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$__.coverage" NAME="무지의 먹방 라이브 Coverage Results" MODIFIED="1599611873990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2606.coverage" NAME="2606 Coverage Results" MODIFIED="1598618313984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$18353.coverage" NAME="18353 Coverage Results" MODIFIED="1598442565440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2667.coverage" NAME="2667 Coverage Results" MODIFIED="1598671577622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1744.coverage" NAME="1744 Coverage Results" MODIFIED="1597586183827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$14494.coverage" NAME="14494 Coverage Results" MODIFIED="1598495231591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$10162.coverage" NAME="10162 Coverage Results" MODIFIED="1599290657682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1707.coverage" NAME="1707 Coverage Results" MODIFIED="1599654138087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1946_1.coverage" NAME="1946-1 Coverage Results" MODIFIED="1600394637155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2021_kakao_2.coverage" NAME="2021_kakao_2 Coverage Results" MODIFIED="1599892993750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1597162004738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$____.coverage" NAME="성적이 낮은 순서로 학생 출력하기 Coverage Results" MODIFIED="1597466854426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/정렬" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$4963_1.coverage" NAME="4963-1 Coverage Results" MODIFIED="1599613424587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2579_1.coverage" NAME="2579-1 Coverage Results" MODIFIED="1600058448932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$1932.coverage" NAME="1932 Coverage Results" MODIFIED="1598018553405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$___.coverage" NAME="특정 거리의 도시 찾기 Coverage Results" MODIFIED="1598879060264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$16234_1.coverage" NAME="16234-1 Coverage Results" MODIFIED="1600504470991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$2754.coverage" NAME="2754 Coverage Results" MODIFIED="1597763245498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$.coverage" NAME="뱀 Coverage Results" MODIFIED="1599576139618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2839.coverage" NAME="2839 Coverage Results" MODIFIED="1598026948870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$2021_kakao_1.coverage" NAME="2021_kakao_1 Coverage Results" MODIFIED="1599889233001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$1912_1.coverage" NAME="1912-1 Coverage Results" MODIFIED="1600055033694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1520.coverage" NAME="1520 Coverage Results" MODIFIED="1599654086926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Study" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$1463.coverage" NAME="1463 Coverage Results" MODIFIED="1598155243459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1092_1.coverage" NAME="1092-1 Coverage Results" MODIFIED="1600416815318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$DFS1D.coverage" NAME="DFS1D Coverage Results" MODIFIED="1597412768894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$10282.coverage" NAME="10282 Coverage Results" MODIFIED="1599809630912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$5622.coverage" NAME="5622 Coverage Results" MODIFIED="1600053798595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$BFS1D.coverage" NAME="BFS1D Coverage Results" MODIFIED="1597414972308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$_for_with_memoization.coverage" NAME="피보나치 for with memoization Coverage Results" MODIFIED="1597831559742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$2193.coverage" NAME="2193 Coverage Results" MODIFIED="1598019433170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$3046.coverage" NAME="3046 Coverage Results" MODIFIED="1597763408651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1138_1.coverage" NAME="1138-1 Coverage Results" MODIFIED="1603252374990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$2021_kakao_3.coverage" NAME="2021_kakao_3 Coverage Results" MODIFIED="1599904475150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$18310_1.coverage" NAME="18310-1 Coverage Results" MODIFIED="1600587831817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Sort" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1599206004380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$18247.coverage" NAME="18247 Coverage Results" MODIFIED="1599209953555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/구현" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1259_1.coverage" NAME="1259-1 Coverage Results" MODIFIED="1601895151125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1439.coverage" NAME="1439 Coverage Results" MODIFIED="1599452303321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$__.coverage" NAME="가장 큰 수 Coverage Results" MODIFIED="1601891881982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$10162.coverage" NAME="10162 Coverage Results" MODIFIED="1599290657682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Greedy" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$18353_2.coverage" NAME="18353-2 Coverage Results" MODIFIED="1602257066462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$4963_1.coverage" NAME="4963-1 Coverage Results" MODIFIED="1599613424587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$11060_1.coverage" NAME="11060-1 Coverage Results" MODIFIED="1601390823543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1932.coverage" NAME="1932 Coverage Results" MODIFIED="1598018553405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$___.coverage" NAME="특정 거리의 도시 찾기 Coverage Results" MODIFIED="1598879060264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/BFS and DFS" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$2754.coverage" NAME="2754 Coverage Results" MODIFIED="1597763245498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$.coverage" NAME="실패율 Coverage Results" MODIFIED="1601201882753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$2021_kakao_1.coverage" NAME="2021_kakao_1 Coverage Results" MODIFIED="1599889233001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1912_1.coverage" NAME="1912-1 Coverage Results" MODIFIED="1600055033694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1463.coverage" NAME="1463 Coverage Results" MODIFIED="1598155243459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$2193.coverage" NAME="2193 Coverage Results" MODIFIED="1598019433170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$26__Remove_Duplicates_from_Sorted_Array.coverage" NAME="26. Remove Duplicates from Sorted Array Coverage Results" MODIFIED="1599282505080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/LeetCode" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1268.coverage" NAME="1268 Coverage Results" MODIFIED="1599289208579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/구현" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$2143_1.coverage" NAME="2143-1 Coverage Results" MODIFIED="1603503641129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2530.coverage" NAME="2530 Coverage Results" MODIFIED="1597763847718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1_.coverage" NAME="1로 만들기 Coverage Results" MODIFIED="1598076698308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$1789.coverage" NAME="1789 Coverage Results" MODIFIED="1597763014716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$2021_kakao_6.coverage" NAME="2021_kakao_6 Coverage Results" MODIFIED="1599892083110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$_.coverage" NAME="자물쇠와 열쇠 Coverage Results" MODIFIED="1598791801456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/이것이 취업을 위한 코딩테스트다/구현1" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$3190_1.coverage" NAME="3190-1 Coverage Results" MODIFIED="1599577177143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/구현" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$2021_kakao_3.coverage" NAME="2021_kakao_3 Coverage Results" MODIFIED="1599904475150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/프로그래머스" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$1427_1.coverage" NAME="1427-1 Coverage Results" MODIFIED="1602227140378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$__with_memoization.coverage" NAME="피보나치 재귀 with memoization Coverage Results" MODIFIED="1597831564139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForStudy/이것이 취업을 위한 코딩테스트다/Dynamic Programming" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1599206004380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$18247.coverage" NAME="18247 Coverage Results" MODIFIED="1599209953555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/구현" />
-    <SUITE FILE_PATH="coverage/AlgorithmPython$17836_1.coverage" NAME="17836-1 Coverage Results" MODIFIED="1600151006369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$17836_1.coverage" NAME="17836-1 Coverage Results" MODIFIED="1600854239402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/BFS and DFS" />
+    <SUITE FILE_PATH="coverage/AlgorithmPython$3863_1.coverage" NAME="3863-1 Coverage Results" MODIFIED="1602216182684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon" />
     <SUITE FILE_PATH="coverage/AlgorithmPython$11729.coverage" NAME="11729 Coverage Results" MODIFIED="1599375083096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProblemSolving/BackJoon/재귀" />
   </component>
 </project>
