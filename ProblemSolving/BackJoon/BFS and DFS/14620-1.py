@@ -14,7 +14,7 @@ def calculate(x, y, dx, dy, ground):
 
 def dfs(x, n, cost, count, answer, dx, dy, ground, visited):
     if count == 3:
-        answer = min(answer, cost)
+        answer[0] = min(answer[0], cost)
         return answer
     for i in range(x, n):
         for j in range(1, n):
@@ -33,7 +33,7 @@ def solution14620():
     dy = [0, 1, 0, -1]
     ground = [list(map(int, input().split())) for _ in range(n)]
     visited = [[False] * n for _ in range(n)]
-    answer = 99999999999
+    answer = [99999999999]
     answer = dfs(1, n, 0, 0, answer, dx, dy, ground, visited)
     print(answer)
 solution14620()
